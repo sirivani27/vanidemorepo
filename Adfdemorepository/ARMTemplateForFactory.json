@@ -154,6 +154,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
+						"fileName": "abc.csv",
 						"folderPath": "output",
 						"container": "adfdemo"
 					},
