@@ -1,0 +1,9 @@
+{
+	"name": "Adfdemorepository",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce93312c-59ab-4695-8657-54320c992c86",
+		"tenantId": "ef79c713-550e-46b5-b628-0fd57491f642"
+	}
+}
